@@ -50,6 +50,7 @@
 * [Klikki Oy - Yahoo Mail stored XSS #2](https://klikki.fi/adv/yahoo2.html)
 * [AirBnb Bug Bounty: Turning Self-XSS into Good-XSS #2 | Geekboy | Security Researcher](http://www.geekboy.ninja/blog/airbnb-bug-bounty-turning-self-xss-into-good-xss-2/)
 * [How I found a $5,000 Google Maps XSS (by fiddling with Protobuf) – Medium](https://medium.com/@marin_m/how-i-found-a-5-000-google-maps-xss-by-fiddling-with-protobuf-963ee0d9caff)
+*[Persistent XSS (unvalidated Open Graph embed) at LinkedIn.com by Jonathan Bouman-Medium] (https://medium.com/@jonathanbouman/persistent-xss-unvalidated-open-graph-embed-at-linkedin-com-db6188acedd9)
 
 ### DOM Based XSS
 
